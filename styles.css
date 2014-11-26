@@ -1,0 +1,12 @@
+* + .readmore-js-toggle { 
+	padding-bottom: 1.5em; 
+	border-bottom: 1px solid #999; 
+	font-weight: bold;
+}
+.readmore-js-toggle, .readmore-js-section {
+	display: block;
+	width: 100%;
+}
+.readmore-js-section {
+	overflow: hidden;
+}
